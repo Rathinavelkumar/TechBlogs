@@ -1,0 +1,11 @@
+site_name: TECH BLOGS
+site_url: https://techblogs.rathnaschools.com
+site_description: >-
+  An interesting site which contains latest tech news and blogs
+
+nav:
+    - How to install UBUNTU OS?: index.md
+    - How to install WINDOW 11 OS?: 2_blog.md
+
+theme:
+  name: material
