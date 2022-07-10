@@ -7,5 +7,10 @@ nav:
     - How to install UBUNTU OS?: index.md
     - How to install WINDOW 11 OS?: 2_blog.md
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 theme:
   name: material
+  custom_dir: overrides
