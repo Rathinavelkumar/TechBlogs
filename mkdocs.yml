@@ -5,7 +5,7 @@ site_description: >-
 
 nav:
     - How to install UBUNTU OS?: index.md
-    - How to install WINDOW 11 OS?: 2_blog.md
+    - Top 10 Programming languages to learn in 2022: top-10-programming-languages-to-learn-in-2022.md
 
 markdown_extensions:
   - attr_list
